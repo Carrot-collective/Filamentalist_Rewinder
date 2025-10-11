@@ -1,3 +1,25 @@
+## Carrot Collective Projects
+
+
+[ERCF v3](https://github.com/Carrot-collective/ERCF_v3)
+
+[ERCT / CottonTail](https://github.com/Carrot-collective/ERCT)
+
+[Filametrix Toolhead Cutter Buffer](https://github.com/Carrot-collective/Filametrix)
+
+[Blobifier Purge System](https://github.com/Carrot-collective/Blobifier)
+
+[Filamentalist Rewinder Buffer](https://github.com/Carrot-collective/Filamentalist)
+
+
+### Carrot Collective Affiliates
+
+[Jabberwocky Toolhead](https://github.com/kinematicdigit/Jabberwocky)
+
+[Happy Hare Wiki](https://github.com/moggieuk/Happy-Hare/wiki)
+
+<br />
+
 <p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="150" height="150">
 <h1 align="center">The "Filamentalist" Passive Filament Driven Rewinder</h1>
 
@@ -101,4 +123,5 @@ gcode:
 
 
 ```
+
 
