@@ -25,6 +25,7 @@ White or transparent TPU is recommended, as both can mix with any filament color
 **For the TPU ring**
 - 0.2 layer height
 - 6 walls (all walls, no infill in the slicer preview)
+- Random seam to avoid excessive material accumulation in a single zone
 
 **For the CDR**
 - Follow the Filamentalist print instructions
