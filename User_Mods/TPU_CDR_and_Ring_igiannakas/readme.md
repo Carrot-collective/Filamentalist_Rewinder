@@ -18,7 +18,7 @@ TPU is extremely abrasion resistant, hence resists wear and reduces the creation
 
 White or transparent TPU is recommended, as both can mix with any filament color without causing any visible contamination. 
 
-90A TPU has been tested as working with 95A also likely to function correctly. Lower hardness TPU tends to have higher traction, so they are preferable.
+90A and 95A TPU has been tested as working. Lower hardness TPU tends to have higher traction, so they are preferable.
 
 ## Print settings:
 
